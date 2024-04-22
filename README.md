@@ -1,1 +1,1 @@
-# Exercício Sobre Requistos de um Sistema de Informatização de Estacionamentos
+# Exercício Requistos de um Sistema de Estacionamentos
