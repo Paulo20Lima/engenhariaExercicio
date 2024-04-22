@@ -1,1 +1,1 @@
-# Exercício de Engenharia de Software sobre Requistos de um Sistema de Informatização de Estacionamentos
+# Exercício Sobre Requistos de um Sistema de Informatização de Estacionamentos
