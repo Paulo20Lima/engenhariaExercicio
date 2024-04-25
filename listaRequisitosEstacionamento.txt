@@ -1,0 +1,16 @@
+Requisitos
+
+- R1: funcional
+- R2: não funcional
+
+R1: O sistema deve possibilitar o monitoramento em tempo real das vagas disponíveis e ocupadas do estacionamento
+R1: O sistema deve fazer o cálculo automatizado de taxas de estacionamento com base no tempo de permanência, tipo de veículo, tarifas especiais, entre outros critérios.
+R1: O sistema deve criar relatórios detalhados sobre o uso do estacionamento, incluindo dados sobre ocupação, receita e tendências de uso do cliente.
+R1: O sistema deve gerenciar os funcionários com ferramentas para administrar os horários de trabalho, atribuição de tarefas, controle de acesso e entre outros.
+R1: O sistema deve possibilitar diferente métodos de pagamento, como cartões de crédito, débito e integração com o PIX, por exemplo.
+
+R2: Acesso via Web
+R2: Acesso por dispositivo móvel
+R2: Disponilidade de até 24 h
+R2: Interface amigável e responsiva
+
