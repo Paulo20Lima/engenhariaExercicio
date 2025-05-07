@@ -1,1 +1,1 @@
-# Exercício Requistos de um Sistema de Estacionamentos
+# Desenvolvimento dos Requisitos de um Sistema de Estacionamentos
